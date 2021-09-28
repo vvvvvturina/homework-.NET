@@ -39,15 +39,20 @@ namespace calculator.Tests
             var result = Calculator.Calculate(a, b, testOperation);
             //assert
             Assert.AreEqual(4, result);
+        }
 
+        [ExcludeFromCodeCoverage]
+        [Test]
+        public void DivisionZeroTest()
+        {
             //arrange
-            int a1 = 8;
-            int b1 = 0;
-            var testOperation1 = Calculator.operation.Division;
+            int a = 8;
+            int b = 0;
+            var testOperation = Calculator.operation.Division;
             //act
             try
             {
-                Calculator.Calculate(a1, b1, testOperation1);
+                Calculator.Calculate(a, b, testOperation);
             }
             //assert
             catch (Exception e)
@@ -75,7 +80,7 @@ namespace calculator.Tests
             //arrange
             int a = 8;
             int b = 2;
-            var testOperation = Calculator.operation.Multiplication;
+            var testOperation = Calculator.operation.Multiply;
             //act
             var result = Calculator.Calculate(a,b,testOperation);
             //assert
@@ -141,7 +146,7 @@ namespace calculator.Tests
             //act
             Calculator.operation testOperator = Calculator.GetOperator("*");
             //assert
-            Assert.AreEqual(Calculator.operation.Multiplication, testOperator);
+            Assert.AreEqual(Calculator.operation.Multiply, testOperator);
         }
     }
 

@@ -1,5 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_043B_0430_0434_0438_0441_043B_0430_0432_0430_005CRiderProjects_005Ccalculator_005Ccalculator_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Владислава\AppData\Local\JetBrains\Rider2021.2\resharper-host\temp\Rider\vAny\CoverageData\_calculator.1433419712\Snapshot\snapshot.utdcvr</s:String>
 	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=019da8dd_002Def93_002D4e9d_002D81ce_002D0b4af4a98f89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Solution /&gt;&#xD;
@@ -49,7 +50,5 @@
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fee5ffc3_002D3358_002D4f2b_002Dac6a_002Dc3acf6528dc2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SubstractionTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

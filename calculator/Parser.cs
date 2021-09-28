@@ -9,7 +9,7 @@ namespace calculator
             return int.TryParse(arg, out int result);
         }
 
-        public static Exception NotEnoughArguments = new Exception("Not enoutgh arguments");
+        public static Exception NotEnoughArguments = new Exception("Not enough arguments");
         
         public static void CheckArgsLength(string[] args)
         {

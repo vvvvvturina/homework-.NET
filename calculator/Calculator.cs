@@ -10,7 +10,7 @@ namespace calculator
         {
             Addition,
             Substraction,
-            Multiplication,
+            Multiply,
             Division,
             NotOperator
         }
@@ -20,7 +20,7 @@ namespace calculator
 
         public static operation GetOperator(string argument)
         {
-            operation operationType = operation.NotOperator;
+            operation operationType;
             switch (argument)
             {
                 case "+":
@@ -30,10 +30,13 @@ namespace calculator
                     operationType = operation.Substraction;
                     break;
                 case "*":
-                    operationType = operation.Multiplication;
+                    operationType = operation.Multiply;
                     break;
                 case "/":
                     operationType = operation.Division;
+                    break;
+                default:
+                    operationType = operation.NotOperator;
                     break;
             }
             return operationType;
@@ -41,7 +44,7 @@ namespace calculator
         
         public static double Calculate(int a, int b, operation operation)
         {
-            double result = 0;
+            double result;
             switch (operation)
             {
                 case operation.Addition:
@@ -57,7 +60,7 @@ namespace calculator
                         result = a / b;
                     }
                     break;
-                case operation.Multiplication:
+                case operation.Multiply:
                     result = a * b;
                     break;
                 case operation.Substraction:
@@ -65,6 +68,9 @@ namespace calculator
                     break;
                 case operation.NotOperator:
                     throw NotAnOperatorException;
+                default:
+                    result = 0;
+                    break;
             }
             return result;
         }
