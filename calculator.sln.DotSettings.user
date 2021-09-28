@@ -1,0 +1,55 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_043B_0430_0434_0438_0441_043B_0430_0432_0430_005CRiderProjects_005Ccalculator_005Ccalculator_002Esln/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=019da8dd_002Def93_002D4e9d_002D81ce_002D0b4af4a98f89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02287ff6_002Dae9f_002D4664_002D8f9a_002Dac0fb1155a7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12a8d650_002Dd191_002D4482_002Dbc3a_002D28c360eddc03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=344694a8_002D5eba_002D43c3_002Da392_002Da5530636eaed/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8160b6f6_002Dc836_002D49d2_002D8670_002Df75f5f2a196d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9fcd1f7a_002D05be_002D4a7a_002D81e8_002D0520abfe23a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a738a19c_002D55f9_002D43c1_002Dbf37_002D06f0213e8bbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb198a22_002De65c_002D439a_002Db534_002D208c8af39e8d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd6a4677_002Dc111_002D4076_002D89e2_002D791b4385cbe9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6c58351_002D1600_002D4b55_002D8e39_002D72f3ad3d8e9b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe2319b7_002D7486_002D4061_002Db9f7_002D42e0920adb5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstractionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fee5ffc3_002D3358_002D4f2b_002Dac6a_002Dc3acf6528dc2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SubstractionTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4F5CCAD2-2507-4AC3-A8D4-16684AFCB18A::net5.0::calculator.Tests.Tests.SubstractionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

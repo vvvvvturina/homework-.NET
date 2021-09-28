@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Владислава\\RiderProjects\\calculator\\UITestProject\\UITestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Владислава\\RiderProjects\\calculator\\UITestProject\\UITestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Владислава\\RiderProjects\\calculator\\UITestProject\\UITestProject.csproj",
+        "projectName": "UITestProject",
+        "projectPath": "C:\\Users\\Владислава\\RiderProjects\\calculator\\UITestProject\\UITestProject.csproj",
+        "packagesPath": "C:\\Users\\Владислава\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Владислава\\RiderProjects\\calculator\\UITestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Владислава\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
